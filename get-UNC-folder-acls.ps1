@@ -6,7 +6,7 @@ The UNC path of a folder
 .DESCRIPTION
 Determines unique ACL groups that contain ASIAPAC in their name from a user provided UNC path
 .EXAMPLE
-get-UNC-folder-acls.ps1 -UNCPath \\cscsrvmel7\d$\Groups -target_folder VWA
+get-UNC-folder-acls.ps1 -UNCPath \\<Path> -target_folder <ShareName>
 #>
 [CmdletBinding()]
 param (
