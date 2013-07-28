@@ -1,4 +1,4 @@
-# Set-target-printer-driver
+# get-unc-folder-acls
 
 ## SYNOPSIS
 
